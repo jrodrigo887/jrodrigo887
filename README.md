@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, Eu sou João!
+
+> Sou desenvolvedor Front-end na Vsoft, sou um apaixonado por tecnologias, bem curioso por novidades e tendências de mercado.
 
 <!--
 **jrodrigo887/jrodrigo887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
