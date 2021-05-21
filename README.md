@@ -2,6 +2,8 @@
 
 > Sou desenvolvedor Front-end na Vsoft, sou um apaixonado por tecnologias, bem curioso por novidades e tendências de mercado.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrodrigo887&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jrodrigo887/jrodrigo887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
