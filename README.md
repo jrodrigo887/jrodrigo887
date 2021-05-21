@@ -2,7 +2,7 @@
 
 > Sou desenvolvedor Front-end na Vsoft, sou um apaixonado por tecnologias, bem curioso por novidades e tendências de mercado.
   
-**Top linguagens que utilizo no meu dia a dia**
+**Top linguagens que utilizo no meu dia a dia**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrodrigo887&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
