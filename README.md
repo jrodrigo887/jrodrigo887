@@ -1,15 +1,13 @@
 <h1 align="center">Olá 👋, Me chamo João Rodrigo</h1>
-<h3 align="center">Sou desenvolvedor Front-end</h3>
+<h3 align="center">Analista de sistema</h3>
 
 <p align="left"> <a href="https://twitter.com/jrodrigo887" target="blank"><img src="https://img.shields.io/twitter/follow/jrodrigo887?logo=twitter&style=for-the-badge" alt="jrodrigo887" /></a> </p>
 
-- 🔭 Atualmente trabalho na Vsoft no produto [Onboarding Digital](https://www.certfy.id/onboarding-digital)
-
-- 🌱 Estou estudando sobre **DDD - Vaughn Vernon, Refatoração - Martin Fowler e Java com Spring-boot**
+- 🔭 Atualmente estou disponível para novos desafios
 
 - 👨‍💻 Todo os meus projetos [https://github.com/jrodrigo887?tab=repositories](https://github.com/jrodrigo887?tab=repositories)
 
-- 💬 Pergunte-me sobre **Vue.js, Javascript/Typescript, Java**
+- 💬 Pergunte-me sobre **Vue.js, Javascript/Typescript, Java, .Net/C# e outras coisas mais**
 
 - 📫 Contato **jrodrigo887@gmail.com**
 
